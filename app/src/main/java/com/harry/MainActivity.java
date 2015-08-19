@@ -5,9 +5,6 @@ import android.os.Bundle;
 import android.util.Log;
 import android.view.View;
 
-/**
- * Created by hsingh on 8/19/15.
- */
 public class MainActivity extends Activity{
     @Override
     protected void onCreate(Bundle savedInstanceState) {
